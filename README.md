@@ -13,10 +13,10 @@
 - `CustomThreadPool` — пул потоков с фиксированным количеством воркеров
 - `Application` — тестовый запуск
 
-## Запуск
+## Сборка
 
 ```bash
-mvn compile exec:java -Dexec.mainClass="com.Application"
+mvn compile
 ```
 
 
